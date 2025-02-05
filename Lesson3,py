@@ -2,6 +2,10 @@ print("Welcome to Sanjay's Koala Party!")
 print("It's possible Sanjay can distribute ", 12)
 print(" cookies for each bowl.")
 # In the output I think it will print that sunjay can distribute 12 cookies for each bown with a space before 12
+print("Welcome to Sanjay's Koala Party!")
+print("It's possible Sanjay can distribute", 12)
+print(" cookies for each bowl.")
+#I fixed the code by removing a space form behind distribute
 print("sunjay has", 6)
 print("bowls for", 144)
 print ("cookies")
