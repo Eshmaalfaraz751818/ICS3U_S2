@@ -9,3 +9,6 @@ print(" cookies for each bowl.")
 print("sunjay has", 6)
 print("bowls for", 144)
 print ("cookies")
+#In this code it printed that sunjay has 6 bowls for 144 cookies
+print("There are ", 6, " people in this room.");
+print("Your total money spent is: ", (2.75+9.32+11.91))
