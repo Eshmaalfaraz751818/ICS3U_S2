@@ -11,6 +11,6 @@ if y!=0:
   if rem == 0:
     print("Yes!", y, "is a factor of", x)
   else:
-    print("No!")
+    print("The remainder is not 0")
 else:
-    print ("No!", y, "is not a foctor of", x)
+    print("No!", y, "is not a foctor of", x)
