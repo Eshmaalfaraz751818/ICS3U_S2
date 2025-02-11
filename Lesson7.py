@@ -7,10 +7,12 @@ y = int(y)
 print("Now deciding if", y, "is a factor of", x, "...")
 rem=0
 if y!=0:
+  print("Yes!", y, "is  a factor of",x)
   rem = x % y
   if rem == 0:
-    print("Yes!", y, "is a factor of", x)
+    print("Yes! remiander is 0")
   else:
-    print("The remainder is not 0")
+    print("No! The remainder is", rem)
+  
 else:
-    print("No!", y, "is not a foctor of", x)
+     print("No!", y, "is not a foctor of", x)  
